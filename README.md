@@ -1,0 +1,2 @@
+# Multilabel-News-Article-Classification-Entity-Aware-Summarisation-Engine
+An end-to-end News Intelligence Engine utilizing Deep Learning for multilabel classification and entity-aware summarization. Features a custom misinformation risk-scoring heuristic, spaCy-driven NER visualization, and a production-ready Streamlit dashboard. Built with HuggingFace Transformers (RoBERTa, BART) and deployed via secure Ngrok tunnels.
